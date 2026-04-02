@@ -1,0 +1,25 @@
+# ===== Backend =====
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+backend/.env
+*.db
+*.sqlite3
+
+# ===== Frontend =====
+node_modules/
+build/
+frontend/.env
+
+# ===== Logs =====
+*.log
+
+# ===== OS / Editor =====
+.DS_Store
+.vscode/
+.idea/
+
+# ===== Misc =====
+*.swp
